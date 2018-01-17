@@ -1,0 +1,3 @@
+Players should be able infect opponents
+Players should be able to play other players
+Players should be able to buy viruses

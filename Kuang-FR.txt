@@ -1,0 +1,3 @@
+Game will be multiplayer
+Player will recieve a set amount of gold at beginning of game
+Tutorial will be available to players
