@@ -1,0 +1,5 @@
+1. If the user buy a virus through the store, the system shall check the user’s remaining golds. If the amount of golds user have is larger than the amount required to buy the virus, the price of the virus shall be deducted from user’s available golds and the virus shall be added to user’s virus library. If there are not enough golds available, the game shall present a warning to the user.
+
+2. Infected population that effected by specific virus should be cured if the corresponding vaccines are applied.
+
+3. If the login button is clicked, the server shall check the credentials provided by the user. If the credentials are correct, the user shall be able to access his account and start the game.

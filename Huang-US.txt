@@ -1,0 +1,5 @@
+1. As a player, I would like a tutorial so that I can learn how to play the game.
+
+2. As a player, I want to be able to buy “reproduction boosters” so that I may increase my reproduction rate. It will accelerate the natural rate of population growth if applied.
+
+3. As a player, I want to be able to buy vaccines so that I may counteract viruses.
