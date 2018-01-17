@@ -1,0 +1,4 @@
+As a player I would like some way of keeping tabs on what other players are doing.
+As a player I would like to be able to kick undesirable players from the game.
+As an admin I would like the ability to ban people from the game.
+
