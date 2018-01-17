@@ -1,0 +1,3 @@
+The game shall be multiplayer.
+Players shall have a population.
+Players shall be able to apply viruses to other players in the game.
