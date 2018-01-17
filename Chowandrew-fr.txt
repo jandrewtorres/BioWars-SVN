@@ -1,0 +1,4 @@
+Players will be able to select an option to Votekick other players.
+Adminstrators will be able to ban players from the game.
+Players will be able to chat with each other in game.
+
