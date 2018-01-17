@@ -1,0 +1,3 @@
+Players shall be able to buy boosts.
+Players shall be able to see information concerning other players.
+Players shall be able to make a temporary account.
